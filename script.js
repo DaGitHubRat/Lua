@@ -1,5 +1,5 @@
 document.getElementById("yesButton").onclick = function() {
-    window.location.href = "https://www.youtube.com/watch?v=A_MjCqQoLLA&list=RDgxEPV4kolz0&index=12";
+    window.location.href = "https://www.youtube.com/watch?v=CnQ8N1KacJc";
 };
 
 document.getElementById("noButton").onclick = function() {
